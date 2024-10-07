@@ -26,12 +26,17 @@ Caso necessário, crie também uma migration no projeto:
 add-migration nomeDePreferencia
 ```
 
-
-
 ## 🛠️ Imagens dos diagramas
 
-![Diagrama de classe](diagramas/diagrama-classes.jpg)
-![Diagrama de arquitetura](diagramas/diagrama-arquitetura.jpg)
+<p align="center">
+  <img src="diagramas/diagrama-classes.jpg" alt="Diagrama de classe" width="400px" />
+  <br>Diagrama de Classe
+</p>
+
+<p align="center">
+  <img src="diagramas/diagrama-arquitetura.jpg" alt="Diagrama de arquitetura" width="400px" />
+  <br>Diagrama de Arquitetura
+</p>
 
 ## ✒️ Autores
 

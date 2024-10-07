@@ -13,8 +13,11 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 🔧 Instruções
 
 **1. Git Clone**
-* Execute esse comando em seu terminal:
+Execute esse comando em seu terminal:
+```
 git clone https://github.com/your-user/challenge-dotnet-sprint1.git
+```
+
 
 
 ## 🛠️ Construído com

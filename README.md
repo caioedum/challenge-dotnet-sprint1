@@ -31,6 +31,7 @@ add-migration nomeDePreferencia
 ## 🛠️ Imagens dos diagramas
 
 ![Diagrama de classe](diagramas/diagrama-classes.jpg)
+![Diagrama de arquitetura](diagrama-arquitetura.jpg)
 
 ## ✒️ Autores
 

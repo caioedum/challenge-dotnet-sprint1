@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Previsao>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Previsões</h1>
+
+<p>
+    <a asp-action="Create">Criar nova previsão</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ImagemUsuarioId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UsuarioId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrevisaoTexto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Probabilidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Recomendacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataPrevisao)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImagemUsuarioId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsuarioId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrevisaoTexto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Probabilidade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Recomendacao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataPrevisao)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PrevisaoUsuarioId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PrevisaoUsuarioId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

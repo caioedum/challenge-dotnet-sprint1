@@ -1,0 +1,70 @@
+﻿@model ChallengeDotnet.Models.Atendimento
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar atendimento</h1>
+
+<h4>Atendimentos</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @if (Model != null) {
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" name="AtendimentoId" value="@Model.AtendimentoId" />
+            <div class="form-group">
+                <label asp-for="UsuarioId" class="control-label"></label>
+                <input asp-for="UsuarioId" class="form-control" />
+                <span asp-validation-for="UsuarioId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DentistaNome" class="control-label"></label>
+                <input asp-for="DentistaNome" class="form-control" />
+                <span asp-validation-for="DentistaNome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ClinicaNome" class="control-label"></label>
+                <input asp-for="ClinicaNome" class="form-control" />
+                <span asp-validation-for="ClinicaNome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataAtendimento" class="control-label"></label>
+                <input asp-for="DataAtendimento" class="form-control" />
+                <span asp-validation-for="DataAtendimento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescricaoProcedimento" class="control-label"></label>
+                <input asp-for="DescricaoProcedimento" class="form-control" />
+                <span asp-validation-for="DescricaoProcedimento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Custo" class="control-label"></label>
+                <input asp-for="Custo" class="form-control" />
+                <span asp-validation-for="Custo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataRegistro" class="control-label"></label>
+                <input asp-for="DataRegistro" class="form-control" />
+                <span asp-validation-for="DataRegistro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+        }
+    </div>
+</div>
+else {
+    <h1>Erro: Atendimento não encontrado</h1>
+}
+<div>
+    <a asp-action="Index">Voltar para a lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

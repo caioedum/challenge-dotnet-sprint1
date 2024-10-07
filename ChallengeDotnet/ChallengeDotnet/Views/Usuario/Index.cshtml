@@ -1,0 +1,106 @@
+﻿@model IEnumerable<Usuario>
+
+@{
+    ViewData["Title"] = "Benefícios de se Cadastrar";
+}
+
+<style>
+    body {
+        background-color: #f9f9f9;
+        color: #333;
+        line-height: 1.6;
+    }
+
+    h1 {
+        color: #2c3e50;
+        text-align: center;
+    }
+
+    h2 {
+        color: #2c3e50;
+        margin-top: 20px;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    .benefits-list {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        .benefits-list li {
+            background: #e7f1ff;
+            border: 1px solid #cce4ff;
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px 0;
+        }
+
+    .cta-button {
+        display: inline-block;
+        background-color: #28a745;
+        color: white;
+        padding: 15px 25px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 16px;
+        text-align: center;
+        transition: background-color 0.3s ease;
+    }
+
+        .cta-button:hover {
+            background-color: #218838;
+        }
+
+    .user-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+        .user-table th, .user-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .user-table th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .user-table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .user-table tr:hover {
+            background-color: #ddd;
+        }
+</style>
+
+<h1>Benefícios de se Cadastrar na Nossa Plataforma</h1>
+
+<p>
+    Como uma empresa focada em <strong>prevenção de sinistros dentários</strong>, nossa parceria com a <strong>Odontoprev</strong> oferece vantagens exclusivas para os usuários cadastrados. Ao se juntar à nossa plataforma, você terá acesso a uma série de benefícios que utilizam a <strong>análise de dados</strong> para oferecer soluções personalizadas e prevenção efetiva.
+</p>
+
+<h2>Por que se cadastrar?</h2>
+<ul class="benefits-list">
+    <li><strong>Monitoramento Preventivo:</strong> Nossa análise de dados identifica possíveis riscos antes mesmo que eles se tornem um sinistro, oferecendo dicas e orientações personalizadas para cada usuário.</li>
+    <li><strong>Relatórios Personalizados:</strong> Com base em seu histórico, oferecemos relatórios detalhados que ajudam a entender suas necessidades e antecipar eventuais problemas.</li>
+    <li><strong>Parceria Exclusiva com a Odontoprev:</strong> Ao se cadastrar, você também conta com as melhores soluções odontológicas do mercado, graças à nossa parceria com a Odontoprev.</li>
+    <li><strong>Atendimento Especializado:</strong> Tenha acesso a uma rede de especialistas preparados para oferecer suporte em tempo real, sempre com foco em prevenção e bem-estar.</li>
+</ul>
+
+<h2>Como Funciona?</h2>
+<p>
+    Ao se cadastrar como usuário, nossa plataforma começará a monitorar suas informações e a gerar insights baseados em <strong>análise de dados avançada</strong>. Isso permite que você esteja sempre à frente de possíveis problemas dentários e maximize o uso dos serviços preventivos oferecidos.
+</p>
+
+<p style="text-align: center;">
+    <a asp-action="Create" class="cta-button">Cadastre-se agora</a>
+</p>
+    

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\models\\previsao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\models\\previsao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\atendimento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\atendimento\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\previsao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\previsao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\previsao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\previsao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\controllers\\previsaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\controllers\\previsaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\atendimento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\atendimento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\atendimento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\atendimento\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|c:\\users\\caio eduardo\\source\\repos\\challengedotnet\\challengedotnet\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A55D43-5874-4CBE-8040-9DFD734BC4A8}|ChallengeDotnet\\ChallengeDotnet.csproj|solutionrelative:challengedotnet\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:57:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Atendimento\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Atendimento\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Atendimento\\Create.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Atendimento\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:47:48.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:47:43.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Previsao\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Previsao\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Previsao\\Create.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Previsao\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:47:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Previsao.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Models\\Previsao.cs",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Models\\Previsao.cs",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Models\\Previsao.cs",
+              "RelativeToolTip": "ChallengeDotnet\\Models\\Previsao.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:44:25.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrevisaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Controllers\\PrevisaoController.cs",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Controllers\\PrevisaoController.cs",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Controllers\\PrevisaoController.cs",
+              "RelativeToolTip": "ChallengeDotnet\\Controllers\\PrevisaoController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:42:19.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Atendimento\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Atendimento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Atendimento\\Index.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Atendimento\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0sAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:41:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Atendimento\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Atendimento\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Atendimento\\Edit.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Atendimento\\Edit.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:40:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:40:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Previsao\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Views\\Previsao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Views\\Previsao\\Index.cshtml",
+              "RelativeToolTip": "ChallengeDotnet\\Views\\Previsao\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T00:40:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ChallengeDotnet\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Caio Eduardo\\source\\repos\\ChallengeDotnet\\ChallengeDotnet\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ChallengeDotnet\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:32:16.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

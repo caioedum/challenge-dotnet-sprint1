@@ -15,7 +15,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 **Git Clone -**
  Execute esse comando em seu terminal:
 ```
-git clone https://github.com/your-user/challenge-dotnet-sprint1.git
+git clone https://github.com/caioedum/challenge-dotnet-sprint1.git
 ```
 Abra o projeto e execute o comando no CLI do Nuget para atualizar o banco de dados: 
 ```
